@@ -171,7 +171,7 @@ The ``README.rst`` file
 ^^^^^^^^^^^^^^^^^^^^^^^^
 The readme file contains the contens that are showed by default on online
 source control providers such as GitHub, GitLab and BitBucket. Normally, this
-is formatted as a Markdown file. However, I reccomend that you use
+is formatted as a Markdown file. However, I recommend that you use
 reStructuredText (rst) instead, since that is the file-format used by Sphinx,
 the most commonly used auto-documentation tool for Python.
 
